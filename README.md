@@ -10,6 +10,7 @@ You don't need a computer or complicated methods to use these repo extraction an
 
 Currently:
 - Palerain is the only semi-tethered jailbreak using the checkm8 exploit.
+- Redensa is Latest iTerminal Based method for iOS 17.5 / 17.5.1.
 - Sileem and Zeon are popular repo extraction methods for iOS 17.5 / 17.5.1.
 - Unc0ver black, Checkra1n mirror, and TiJong Xūnǐ are the virtual jailbreak methods for iOS 17.5.1.
 
