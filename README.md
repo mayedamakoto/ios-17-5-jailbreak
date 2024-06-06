@@ -1,6 +1,6 @@
 <div align="center">
   
-  # iOS 17.5 / iOS 17.5.1 Jailbreak
+  # Top iOS 17.5 / 17.5.1 Jailbreak Solutions for 2024
 
 </div>
 
