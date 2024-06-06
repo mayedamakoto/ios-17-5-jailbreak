@@ -2,8 +2,7 @@
   
   # Top iOS 17.5 / 17.5.1 Jailbreak Solutions for 2024
 
-  ![image](https://github.com/mayedamakoto/ios-17-5-jailbreak/assets/171676062/c0ce622a-86ea-4ebc-8fdf-fac6b30a7329)
-
+  ![image](https://github.com/mayedamakoto/ios-17-5-jailbreak/assets/171676062/2b08ac03-fd77-4509-a9b0-e640a776e110)
 
 </div>
 
