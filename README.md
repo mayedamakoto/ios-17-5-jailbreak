@@ -1,12 +1,12 @@
 <div align="center">
   
-  # Top iOS 17.5 / 17.5.1 Jailbreak Solutions for 2024
+  # Top iOS 17 - 17.5.1 Jailbreak Solutions for 2024
 
 </div>
 
-We have listed all the latest iOS 17.5 / iOS 17.51 jailbreak solutions on this page, complete with download links and comprehensive guides. These are the easiest methods to install Cydia and Sileo on your iPhone and iPad. Here are the most reliable solutions you can choose to jailbreak iOS 17.5 / iOS 17.5.1. All download links are secure, and these solutions have been upgraded for the latest iOS 17.5.1 jailbreak as well.
+We have listed all the latest iOS 17 - iOS 17.51 jailbreak solutions on this page, complete with download links and comprehensive guides. These are the easiest methods to install Cydia and Sileo on your iPhone and iPad. Here are the most reliable solutions you can choose to jailbreak iOS 17 - iOS 17.5.1. All download links are secure, and these solutions have been upgraded for the latest iOS 17.5.1 jailbreak as well.
 
-There are four available jailbreak methods for iOS 17.5 / iOS 17.5.1:
+There are four available jailbreak methods for iOS 17 - iOS 17.5.1:
 
 - Terminal-based jailbreak app installation
 - Semi-untethered jailbreak
@@ -17,7 +17,7 @@ Explore our page for secured download links and complete guides on how to jailbr
 
 <hr>
 
-## Terminal based iOS 17.5 / 17.5.1 Jailbreak solutions
+## Terminal based iOS 17 - 17.5.1 Jailbreak solutions
 
 Redensa is the first jailbreak solution using iTerminal for the latest iOS version. When you install Redensa, it will also install two apps: Redensa and iTerminal.
 
@@ -52,12 +52,12 @@ Here are the features of the Redensa jailbreak solution:
 <br>
 
 
-## Repo extraction based iOS 17.5 / 17.5.1 Jailbreak solutions
+## Repo extraction based iOS 17 - 17.5.1 Jailbreak solutions
 
 ### 01. Sileem Repo Extractor
 
 
-Sileem is a popular repo extractor for the latest iPhone models. This is the most effective way to jailbreak iOS 17.5 / iOS 17.5.1 jailbreak. Using Sileem repo extractor you can install jailbreak tweaks, apps, themes.
+Sileem is a popular repo extractor for the latest iPhone models. This is the most effective way to jailbreak iOS 17 - iOS 17.5.1 jailbreak. Using Sileem repo extractor you can install jailbreak tweaks, apps, themes.
 
 It is originally a Japanese jailbreak repo extractor & then Sileem team has been upgrade Sileem with adding English version
 
@@ -90,7 +90,7 @@ Here are the features of the Sileem repo extractor:
 ### 02. Zeon 
 
 
-Zeon repo extractor is a jailbreak solution that is still being updated from iOS 14 to iOS 17.5.1. Using zeon, you can install collection of iOS 17.5 / iOS  17.5 jailbreak apps, tweaks, themes to customize your iDevices. 
+Zeon repo extractor is a jailbreak solution that is still being updated from iOS 14 to iOS 17.5.1. Using zeon, you can install collection of iOS 17 - iOS  17.5 jailbreak apps, tweaks, themes to customize your iDevices. 
 
 Zeon uses a repo extracting method to install third party jailbreak apps, it is a very famous jailbreak solution among iOS 14 to iOS 17.5.1 users. You can download Zeon repo extractor jailbreak solution from Xookz app store. tap the following button to install it.
 
@@ -104,7 +104,7 @@ Zeon uses a repo extracting method to install third party jailbreak apps, it is 
 
 <hr>
 
-## Checkm8 exploit based iOS 17.5 / 17.5.1 Jailbreak solutions
+## Checkm8 exploit based iOS 17 - 17.5.1 Jailbreak solutions
 
 ### 01. Palera1n Jailbreak Tool (iOS 15 – iOS 17.5.1 older device models)
 Palera1n Jailbreak is the first ever semi-tethered jailbreak for iOS 15 & higher running checkm8 devices.
@@ -170,7 +170,7 @@ Here are the features of the Palera1n Virtual terminal jailbreak:
 
 <hr>
 
-## Virtual iOS 17.5 / 17.5.1 Jailbreak Solutions
+## Virtual iOS 17 - 17.5.1 Jailbreak Solutions
 
 ### 01. Unc0ver Black Edition
 
@@ -187,7 +187,7 @@ Unc0ver Black edition works as an iOS 17.5 / iOS 17.5.1 jailbreak solution. Unc0
 
 Here are the features of the Unc0ver Black edition:
 
-📱 iOS 17.5 / iOS 17.5.1: Compatible with the latest iOS versions.<br>
+📱 iOS 17 - iOS 17.5.1: Compatible with the latest iOS versions.<br>
 
 🌐 Web-Based Jailbreak: Conducted entirely online for ease of use.<br>
 
@@ -204,7 +204,7 @@ Here are the features of the Unc0ver Black edition:
 ### 02. Checkra1n mirror
 
 
-Checkra1n mirror jailbreak is the most popular iOS 17.5 / iOS 17.5.1 jailbreak method now in jailbreak discussions. The reasons are checkra1n mirror is specially designed by a well-known experienced team in the jailbreak community and especially designed for iOS 17 and higher version jailbreak. It is an alternative solution for Checkra1n Jailbreak available up to iOS 14.8.1
+Checkra1n mirror jailbreak is the most popular iOS 17 - iOS 17.5.1 jailbreak method now in jailbreak discussions. The reasons are checkra1n mirror is specially designed by a well-known experienced team in the jailbreak community and especially designed for iOS 17 and higher version jailbreak. It is an alternative solution for Checkra1n Jailbreak available up to iOS 14.8.1
 
 <div align="center">
   
@@ -232,7 +232,7 @@ Here are the features of the Checkra1n mirror jailbreak:
 
 ### 03. TiJong Xūnǐ Virtual Jailbreak
 
-Tijong Xuni is virtual jailbreak solution for the latest iOS versions upto iOS 17 such as iOS 17.5 / iOS 17.5.1. It is originally a Chinese jailbreak solution.
+Tijong Xuni is virtual jailbreak solution for the latest iOS versions upto iOS 17 such as iOS 17 - iOS 17.5.1. It is originally a Chinese jailbreak solution.
 Tijong Xuni offers to download Cydia 2 after the virtual jailbreak process as Cydia alternative.
 
 <div align="center">
@@ -261,7 +261,7 @@ Here are the features of the Tijong Xuni virtual jailbreak solution:
 
 <hr>
 
-### iOS 17.5 / iOS 17.5.1 supported devices:
+### iOS 17 - iOS 17.5.1 supported devices:
 - `iPhone XS and iPhone XS Max`
 - `iPhone XR`
 - `iPhone SE 2, iPhone SE 3`
@@ -273,12 +273,25 @@ Here are the features of the Tijong Xuni virtual jailbreak solution:
 
 ### Available iOS Versions:
 
+- `iOS 17`
+- `iOS 17.0.1`
+- `iOS 17.0.2`
+- `iOS 17.0.3`
+- `iOS 17.1`
+- `iOS 17.1.1`
+- `iOS 17.1.2`
+- `iOS 17.2`
+- `iOS 17.2.1`
+- `iOS 17.3`
+- `iOS 17.3.1`
+- `iOS 17.4`
+- `iOS 17.4.1`
 - `iOS 17.5`
 - `iOS 17.5.1`
 
 <hr>
 
-## Best Tweaks for iOS 17.5 / iOS 17.5.1 Jailbreak
+## Best Tweaks for iOS 17 - iOS 17.5.1 Jailbreak
 
 After jailbreaking your iOS 17.5 device, a world of tweaks and apps opens up for you. Here are some of the most popular ones:
 
@@ -294,7 +307,7 @@ After jailbreaking your iOS 17.5 device, a world of tweaks and apps opens up for
 
 <hr>
 
-## Advantages of Jailbreak iOS 17.5 / iOS 17.5.1
+## Advantages of Jailbreak iOS 17 - iOS 17.5.1
 
 Jailbreaking an iPhone refers to the process of removing software restrictions imposed by Apple on iOS devices. While jailbreaking can provide some benefits to users, it also comes with significant risks and drawbacks. Here are some advantages of jailbreaking an iPhone
 
@@ -328,7 +341,7 @@ Jailbreaking can sometimes lead to issues. Here are some common problems and the
 
 <hr>
 
-## Risks of Jailbreaking iOS 17.5 / iOS 17.5
+## Risks of Jailbreaking iOS 17 - iOS 17.5
 
 Jailbreaking your device has benefits, but it also comes with risks:
 
